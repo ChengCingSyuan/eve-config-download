@@ -1,5 +1,6 @@
 # eve-config-download
 一个用于下载和配置EVE-NG的脚本
+A script for downloading and configuring EVE-NG
 
 ---
 
