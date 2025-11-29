@@ -1,61 +1,67 @@
-# EVE-Config-Shell
-
-一个用于下载和配置EVE-NG的脚本
-
-A script for downloading and configuring EVE-NG
+# EVE-Config-Shell  
+**一个用于下载和配置 EVE-NG 的脚本  
+A script for downloading and configuring EVE-NG**
 
 ---
 
-# 中文
+## 📝 说明 | Description
 
-本项目及其源代码遵循 GPLv3 许可协议：
- - 允许修改与分发，但必须保留原项目的版权与许可声明；
- - 修改后的项目必须继续使用相同的开源协议；
- - 禁止未经授权的商业使用；
- - 需保留署名与来源；
- - 本项目仅供学习与研究使用，作者不对使用本项目产生的任何
-   直接或间接后果承担责任；
- - 禁止用于生产环境，请务必在测试环境中充分测试和评估后再使用。
-------------------------------------------------------------
-本脚本使用 hi168 / Microsoft SharePoint 为配置文件与镜像存储源
+**中文：**  
+本项目及其源代码遵循 **GPLv3 开源许可协议**：
 
-EVE-NG 国代官方提供相关技术支持
+- 允许修改与分发，但必须保留原项目的版权与许可声明，禁止未经授权的商业使用；  
+- 修改后的项目必须继续使用相同的开源协议，并需保留原作者署名与来源；  
+- 本项目仅用于学习与研究，作者不对使用本项目造成的任何直接或间接后果负责；  
+- **生产环境用户及 EVE-NG Pro 用户必须在部署前进行充分的审计、测试与评估。**
 
-## 功能
+本脚本使用 **hi168 / Microsoft SharePoint** 作为配置文件与镜像存储源。  
+本项目为面向 ChatGPT 辅助开发而创建，**石山勿Q**。
 
-1. 切换下载源，目前有 hi168 与 Microsoft SharePoint
-2. 安装/更新EVE-NG配置文件（script、icon、yml）
-3. 一键修复权限
-4. 安装锐捷设备镜像
-5. 切换APT源以及安装必要组件
-
-未来计划： 支持安装更多厂商设备
+项目地址：  
+👉 https://github.com/ChengCingSyuan/EVE-Config-Shell
 
 ---
 
-# English
+**English:**  
+This project and its source code are licensed under the **GPLv3 license**:
 
-This project and its source code follow the **GPLv3 license**:
+- Modification and redistribution are permitted, but the original copyright and license statements must be preserved.  
+- Unauthorized commercial use is prohibited.  
+- Modified versions must continue to use the same open-source license and retain proper attribution.  
+- **Production environment users and EVE-NG Pro users must conduct thorough auditing, testing, and evaluation before deployment.**
 
-* Modification and redistribution are permitted, but the original copyright and license statements must be preserved;
-* Modified versions must continue to use the same open-source license;
-* Unauthorized commercial use is prohibited;
-* Attribution and source must be retained;
-* This project is intended solely for learning and research purposes. The author assumes no responsibility for any direct or indirect consequences resulting from the use of this project;
-* Use in production environments is strictly prohibited. Please thoroughly test and evaluate it in a test environment before use.
+This script uses **hi168 / Microsoft SharePoint** as the storage source for configuration files and images.  
+This project is developed with assistance from ChatGPT — **Don’t ask**.
+
+Project repository:  
+👉 https://github.com/ChengCingSyuan/EVE-Config-Shell
 
 ---
 
-This script uses **hi168 / Microsoft SharePoint** as the storage source for configuration files and images.
+## ✨ 功能 | Features
 
-Official technical support for EVE-NG is provided by the authorized distributor in China.
+**中文：**
 
-## Features
+1. 切换下载源（支持 hi168 与 Microsoft SharePoint）  
+2. 安装 / 更新 EVE-NG 配置文件（scripts、icons、YAML 模板等）  
+3. 一键修复权限  
+4. 安装锐捷设备镜像  
+5. 切换 APT 源并安装必要系统组件  
 
-1. Switch between download sources (currently supports hi168 and Microsoft SharePoint)
-2. Install/update EVE-NG configuration files (scripts, icons, YAML files)
-3. One-click permission repair
-4. Install Ruijie device images
-5. Switch APT sources and install required components
+**未来计划：**
 
-Planned for the future: Support installation of more vendor devices.
+- 支持更多厂商设备  
+
+---
+
+**English:**
+
+1. Switch between download sources (supports hi168 and Microsoft SharePoint)  
+2. Install/Update EVE-NG configuration files (scripts, icons, YAML templates, etc.)  
+3. One-click permission repair  
+4. Install Ruijie device images  
+5. Switch APT sources and install required system components  
+
+**Future Plans:**
+
+- Support for more vendor device images  
