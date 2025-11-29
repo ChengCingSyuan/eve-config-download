@@ -65,3 +65,17 @@ Project repository:
 **Future Plans:**
 
 - Support for more vendor device images  
+
+---
+
+## 设备列表 (Supported Devices)
+
+### Ruijie
+- **RuijieFirewall-V1.03**  
+- **RuijieRoute-V1.06**  
+- **RuijieSwitch-V1.06**  
+
+### H3C
+- **H3C VFW1K — 7.1.064-E1260P45**  
+- **H3C VSR1K — 7.1.064-R1340P22**  
+- **H3C Switch S9850 — 7.1.070-R7643P02**  
